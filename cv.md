@@ -1,4 +1,5 @@
 # **Olena Korenieva**
+## Krakow, Poland
 ![](file:///C:/Users/elena-apelsinchik/Desktop/education/rsschool-cv111/photo.jpg)
 
 I am a switcher. I have 7 years experience in HR analytics in Ukraine. Now I am studying Front-end-development at RSSchool. 
@@ -6,10 +7,10 @@ I do my best to get all technical(hard) and soft skills, which will help me to f
 in the nearest future. I am patient about computer science, mathematics, Data Science.
 
 ### *Contacts*
- *Tel.:* +48 537 504 754 
- *Github:* Elena Korenieva
- *E-mail:* olena.korenieva@gmail.com
- *Skype:* elenak7799
+* *Tel.:* +48 537 504 754 
+* *Github:* Elena Korenieva
+* *E-mail:* olena.korenieva@gmail.com
+* *Skype:* elenak7799
 
 ### *Tech skills*
 * HTML5 
