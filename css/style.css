@@ -166,6 +166,8 @@ body {
     line-height: 24px;
     margin-top: 24px;
     margin-bottom: 15px;
+    display: flex;
+    text-align: justify;
 }
 
 .info-container {
@@ -233,7 +235,10 @@ body {
 
 .profession-duties {
     margin-top: 14px; 
-    margin-bottom: 30px; 
+    margin-bottom: 30px;
+    display: inline-block;
+    list-style: none;
+    vertical-align: middle;
 }
 
 .profession-duties-item {
@@ -241,6 +246,8 @@ body {
     font-weight: 400;
     color: #595959;
     line-height: 24px;
+    display: flex;
+    text-align: justify;
 }
 
 .educational-title1 {
